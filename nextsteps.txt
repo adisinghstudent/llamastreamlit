@@ -5,4 +5,11 @@ https://cheat-sheet.streamlit.app
 - store user questions.
 - build on previous conversations
 
+2. build a imessage like interface
+- chat bubbles
+- varying by text output size
+- accept csv files
+
+
+
 
