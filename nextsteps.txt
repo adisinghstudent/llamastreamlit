@@ -1,0 +1,8 @@
+
+
+1. build chatlike frontend with streamlit
+https://cheat-sheet.streamlit.app
+- store user questions.
+- build on previous conversations
+
+

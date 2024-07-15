@@ -39,4 +39,3 @@ if st.button("Answer"):
             answer = st.write(llm.invoke(prompt, stop = ['< |eot_id| >']))
 #to have the answer print out in bit by bit style (stream) we can use st.write_stream and llm.stream instead
 
-
